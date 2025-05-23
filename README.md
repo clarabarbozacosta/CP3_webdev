@@ -1,1 +1,4 @@
-# CP3_webdev
+## 👩🏻‍💻 Equipe
+
+- **Brenda Santos**  
+- **Clara Barboza Costa** 
